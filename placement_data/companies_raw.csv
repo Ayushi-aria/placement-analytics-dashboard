@@ -1,0 +1,25 @@
+company_id,company_name,sector,ctc_lpa
+1,Tiger Analytics,Analytics,12
+2,ZS Associates,Consulting,14
+3,Amgen,Pharma,16
+4,Axtria,Analytics,11
+5,Sun King,Fintech,10
+6,Hyperface,Fintech,9
+7,ENTNT,Software,8
+8,TCS,IT Services,4
+9,Infosys,IT Services,4
+10,Wipro,IT Services,4
+11,Accenture,IT Services,6
+12,Deloitte,Consulting,10
+13,Goldman Sachs,Finance,25
+14,Microsoft,Software,40
+15,Flipkart,E-commerce,30
+16,Mu Sigma,Analytics,7
+17,Fractal,Analytics,11
+18,Tata Steel,Core,8
+19,L&T,Core,7
+20,Cognizant,IT Services,5
+21,tiger analytics,Analytics,12
+22,ZS Associates ,Consulting,14
+23,AMGEN,Pharma,16
+24,Tata Consultancy Services,IT Services,4

@@ -1,0 +1,129 @@
+offer_id,branch,cgpa,company_name,sector,ctc_lpa
+15,MCA,6.39,Tiger Analytics,Analytics,10.82
+17,ECE,7.19,Tiger Analytics,Analytics,11.66
+20,Maths & Computing,9.07,Tiger Analytics,Analytics,12.55
+36,ME,7.86,Tiger Analytics,Analytics,13.23
+40,Civil,9.47,Tiger Analytics,Analytics,12.52
+46,CSE,7.82,Tiger Analytics,Analytics,12.47
+67,ECE,8.53,Tiger Analytics,Analytics,12.49
+75,ECE,7.17,Tiger Analytics,Analytics,10.95
+87,CSE,7.69,Tiger Analytics,Analytics,11.74
+92,Maths & Computing,8.7,Tiger Analytics,Analytics,13.6
+99,CSE,9.3,Tiger Analytics,Analytics,11.19
+120,MCA,8.05,Tiger Analytics,Analytics,13.67
+5,MCA,7.24,ZS Associates,Consulting,15.39
+7,ECE,6.36,ZS Associates,Consulting,14.74
+8,Civil,8.56,ZS Associates,Consulting,14.31
+9,EE,9.03,ZS Associates,Consulting,13.07
+12,CSE,8.35,ZS Associates,Consulting,14.7
+44,CSE,6.5,ZS Associates,Consulting,13.46
+58,EE,7.71,ZS Associates,Consulting,12.65
+70,CSE,6.18,ZS Associates,Consulting,15.86
+103,Civil,7.71,ZS Associates,Consulting,13.32
+66,EE,7.9,Amgen,Pharma,16.23
+73,ECE,8.57,Amgen,Pharma,15.55
+85,ME,7.42,Amgen,Pharma,17.43
+108,MCA,8.56,Amgen,Pharma,17.38
+117,MCA,7.61,Amgen,Pharma,17.99
+128,ME,7.86,Amgen,Pharma,17.64
+18,MCA,6.24,Axtria,Analytics,11.92
+50,ECE,6.46,Axtria,Analytics,10.12
+53,CSE,7.82,Axtria,Analytics,11.32
+4,ECE,8.5,Sun King,Fintech,10.42
+68,ME,8.2,Sun King,Fintech,10.66
+84,CSE,7.08,Sun King,Fintech,9.6
+118,CSE,7.86,Sun King,Fintech,11.12
+10,CSE,7.9,Hyperface,Fintech,8.69
+19,Maths & Computing,7.7,Hyperface,Fintech,8.15
+22,ECE,6.57,Hyperface,Fintech,8.49
+24,Maths & Computing,7.36,Hyperface,Fintech,8.31
+101,MCA,6.67,Hyperface,Fintech,9.74
+102,ME,7.85,Hyperface,Fintech,9.39
+11,Maths & Computing,8.96,ENTNT,Software,8.04
+16,ME,7.89,ENTNT,Software,8.19
+54,Maths & Computing,8.49,ENTNT,Software,7.63
+112,Civil,6.69,ENTNT,Software,7.6
+2,MCA,7.88,TCS,IT Services,3.86
+6,ECE,6.46,TCS,IT Services,4.34
+31,ME,7.58,TCS,IT Services,3.62
+37,ECE,8.21,TCS,IT Services,4.03
+48,MCA,8.48,TCS,IT Services,4.03
+55,Maths & Computing,8.07,TCS,IT Services,3.88
+77,Maths & Computing,9.07,TCS,IT Services,4.5
+93,ECE,7.6,TCS,IT Services,3.9
+104,EE,7.44,TCS,IT Services,4.1
+123,Maths & Computing,7.42,TCS,IT Services,3.66
+129,Maths & Computing,7.35,TCS,IT Services,4.48
+25,CSE,7.86,Infosys,IT Services,4.23
+42,CSE,8.29,Infosys,IT Services,3.87
+45,ME,8.31,Infosys,IT Services,3.91
+80,CSE,7.27,Infosys,IT Services,3.74
+109,ME,8.4,Infosys,IT Services,3.83
+49,MCA,8.73,Wipro,IT Services,4.22
+100,CSE,7.69,Wipro,IT Services,4.27
+106,CSE,8.35,Wipro,IT Services,4.03
+13,EE,8.81,Accenture,IT Services,6.17
+14,CSE,7.77,Accenture,IT Services,5.83
+76,CSE,7.69,Accenture,IT Services,5.75
+79,CSE,8.16,Accenture,IT Services,5.73
+127,MCA,7.67,Accenture,IT Services,5.88
+1,MCA,8.73,Deloitte,Consulting,10.41
+26,EE,9.52,Deloitte,Consulting,10.38
+27,MCA,7.23,Deloitte,Consulting,10.02
+38,EE,8.81,Deloitte,Consulting,10.87
+39,EE,8.28,Deloitte,Consulting,11.28
+41,ME,7.85,Deloitte,Consulting,9.45
+83,Civil,7.71,Deloitte,Consulting,10.69
+96,CSE,7.99,Deloitte,Consulting,10.73
+30,CSE,8.26,Goldman Sachs,Finance,23.73
+51,ME,7.32,Goldman Sachs,Finance,23.05
+52,ECE,7.71,Goldman Sachs,Finance,23.57
+57,ME,8.45,Goldman Sachs,Finance,27.57
+72,ECE,7.81,Goldman Sachs,Finance,27.0
+82,MCA,8.56,Goldman Sachs,Finance,25.63
+86,ECE,7.32,Goldman Sachs,Finance,27.25
+89,EE,9.03,Goldman Sachs,Finance,23.81
+94,CSE,7.27,Goldman Sachs,Finance,27.39
+97,MCA,7.23,Goldman Sachs,Finance,28.54
+110,CSE,7.69,Goldman Sachs,Finance,25.03
+125,CSE,6.0,Goldman Sachs,Finance,23.18
+34,Civil,6.95,Microsoft,Software,44.91
+59,ECE,7.41,Microsoft,Software,42.49
+74,Civil,7.33,Microsoft,Software,44.8
+88,ME,7.79,Microsoft,Software,40.11
+113,Maths & Computing,7.98,Microsoft,Software,43.83
+116,CSE,8.33,Microsoft,Software,43.51
+62,Maths & Computing,8.05,Flipkart,E-commerce,34.0
+63,CSE,7.08,Flipkart,E-commerce,27.15
+64,ME,7.42,Flipkart,E-commerce,28.15
+69,MCA,8.05,Flipkart,E-commerce,32.09
+81,Maths & Computing,7.28,Flipkart,E-commerce,33.44
+122,ECE,7.41,Flipkart,E-commerce,29.54
+124,ECE,6.51,Flipkart,E-commerce,30.65
+126,MCA,6.39,Flipkart,E-commerce,28.86
+32,CSE,8.98,Mu Sigma,Analytics,7.81
+105,MCA,8.48,Mu Sigma,Analytics,6.85
+119,EE,7.92,Mu Sigma,Analytics,6.62
+21,ME,8.98,Fractal,Analytics,12.49
+33,CSE,6.97,Fractal,Analytics,11.49
+60,MCA,8.56,Fractal,Analytics,11.74
+71,ME,6.95,Fractal,Analytics,12.64
+90,ME,7.76,Fractal,Analytics,12.59
+121,ME,8.31,Fractal,Analytics,10.94
+3,ECE,6.58,Tata Steel,Core,8.59
+43,MCA,8.24,Tata Steel,Core,7.6
+65,CSE,7.63,Tata Steel,Core,8.97
+78,MCA,6.68,Tata Steel,Core,7.71
+115,ECE,7.55,Tata Steel,Core,7.94
+23,ME,7.84,L&T,Core,7.13
+29,ECE,8.54,L&T,Core,7.87
+56,ME,7.01,L&T,Core,7.0
+111,ME,8.2,L&T,Core,6.77
+28,EE,9.9,Cognizant,IT Services,5.15
+35,CSE,6.18,Cognizant,IT Services,5.25
+47,MCA,7.0,Cognizant,IT Services,5.23
+61,Maths & Computing,7.14,Cognizant,IT Services,5.5
+91,ECE,7.19,Cognizant,IT Services,5.31
+95,EE,8.81,Cognizant,IT Services,5.46
+107,CSE,7.9,Cognizant,IT Services,5.31
+114,CSE,9.0,Cognizant,IT Services,5.64
